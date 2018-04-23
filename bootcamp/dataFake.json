@@ -1,0 +1,50 @@
+﻿{
+	"Event": {
+		"Date": "21-04-2018"
+	},
+	"Location": {
+		"Name": "Hyderabad",
+		"Latitude": 1.282387,
+		"Longitude": 103.850243,
+		"Address": "ValueMomentum Towers, Financial District, Nanakramguda, Gachibowli, Hyderabad, Telengana"
+	},
+	"Social": {
+		"Eventbrite": "https://www.eventbrite.com/e/global-azure-bootcamp-2018-hyderabad-tickets-44257102184",
+		"Facebook": "https://www.facebook.com/MWAPSG"
+	},
+	"Callout": {
+		"Text": "Register Today",
+		"Link": "https://www.eventbrite.com/e/global-azure-bootcamp-2018-hyderabad-tickets-44257102184",
+		"Type": "default"
+	},
+	"Organizers": [
+		{
+			"Name": "Swarnalata Tamanam",
+			"Social": {
+				"Email": "Swarnalata.Tamanam@valuemomentum.biz"
+			}
+		},
+		{
+			"Name": "Vamshi Krishna Rao Ramadugu",
+			"Social": {
+				"Email": "Vamshi.Ramadugu@valuemomentum.biz"
+			}
+		},
+		{
+			"Name": "Angsuman Ray",
+			"Social": {
+				"Email": "Angsuman.Ray@valuemomentum.biz"
+			}
+		}
+	],
+	"Sponsors": [
+
+	],
+	"Prizes": [
+		{
+			"ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/comingsoon.png",
+			"Link": "#",
+			"Name": "Coming Soon"
+		}
+	]
+}

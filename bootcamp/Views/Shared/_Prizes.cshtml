@@ -1,0 +1,28 @@
+﻿@model Prize[]
+@{
+    var splittedGroup =  bootcamp.Utilities.Extensions.Split<Prize>(Model, 4);
+}
+<section id="giveaways">
+    <div class="container">
+        <div class="section-heading scrollpoint sp-effect3">
+            <h1>Contributors</h1>
+            <div class="divider"></div>
+        </div>
+        <div class="row"> </div>
+        <!-- row -->
+        @foreach (var rowGroup in splittedGroup)
+        {
+            var bootstrapColumn = 12 / rowGroup.Count;
+            <div class="row">
+                @foreach (var giveaway in rowGroup)
+                {
+                    <div class="col-lg-@bootstrapColumn text-center">
+                        <a href="@giveaway.Link" target="_blank"><img src="@giveaway.ImageUrl" class="img-circle" style="margin-top:30px;" height="100px"></a> <br>
+                        <h4>@giveaway.Name</h4>
+                    </div>
+                }
+            </div>
+        }
+        <!-- row -->
+    </div>
+</section>

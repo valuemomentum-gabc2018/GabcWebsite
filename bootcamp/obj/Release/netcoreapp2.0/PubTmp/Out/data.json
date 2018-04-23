@@ -1,0 +1,586 @@
+{
+  "Event": {
+    "Date": "21-04-2018"
+  },
+  "Location": {
+    "Name": "Hyderabad",
+    "Latitude": 1.282387,
+    "Longitude": 103.850243,
+    "Address": "ValueMomentum Towers, Financial District, Nanakramguda, Gachibowli, Hyderabad, Telengana"
+  },
+  "Social": {
+    "Eventbrite": "https://www.eventbrite.com/e/global-azure-bootcamp-2018-hyderabad-tickets-44257102184",
+    "Facebook": "https://www.facebook.com/ValueMomentum/",
+    "Twitter": "https://twitter.com/ValueMomentum",
+    "LinkedIn": "https://www.linkedin.com/company/valuemomentum"
+  },
+  "Callout": {
+    "Text": "Register Today",
+    "Link": "https://www.eventbrite.com/e/global-azure-bootcamp-2018-hyderabad-tickets-44257102184",
+    "Type": "default"
+  },
+  "Organizers": [
+    {
+      "Name": "Swarnalata Tamanam",
+      "Social": {
+        "Email": "Swarnalata.Tamanam@valuemomentum.biz"
+      }
+    },
+    {
+      "Name": "Vamshi Krishna Rao Ramadugu",
+      "Social": {
+        "Email": "Vamshi.Ramadugu@valuemomentum.biz"
+      }
+    }
+    //,
+    //{
+    //  "Name": "Angsuman Ray",
+    //  "Social": {
+    //    "Email": "Angsuman.Ray@valuemomentum.biz"
+    //  }
+    //}
+  ],
+  "Sponsors": [
+
+  ],
+  "Prizes": [
+    {
+      "ImageUrl": "./images/SaiChaitanya.jpg",
+      "Description": "",
+      "Link": "#",
+      "Name": "Saichaitanya Ballikonda"
+    },
+    {
+      "ImageUrl": "./images/Asha.jpg",
+      "Description": "",
+      "Link": "#",
+      "Name": "Asha Jyothi Polamarasetty"
+    },
+    {
+      "ImageUrl": "./images/Gayatri.jpg",
+      "Description": "",
+      "Link": "#",
+      "Name": "Gayatri Ramachandran"
+    },
+    {
+      "ImageUrl": "./images/Pooja.jpg",
+      "Description": "",
+      "Link": "#",
+      "Name": "Pooja Kokkula"
+    },
+    {
+      "ImageUrl": "./images/Aparna.jpg",
+      "Description": "",
+      "Link": "#",
+      "Name": "Aparna Gottumukkala"
+    },
+    {
+      "ImageUrl": "./images/Anay.jpg",
+      "Description": "",
+      "Link": "#",
+      "Name": "Anay Yadav"
+    },
+    {
+      "ImageUrl": "./images/Guru.jpg",
+      "Description": "",
+      "Link": "#",
+      "Name": "Gurunadha Sivaprasad Majji "
+    },
+    {
+      "ImageUrl": "./images/Hitesh.jpg",
+      "Description": "",
+      "Link": "#",
+      "Name": "Hitesh Janga"
+    },
+
+    {
+      "ImageUrl": "./images/Angsuman-1.jpg",
+      "Description": "",
+      "Link": "#",
+      "Name": "Angsuman Ray"
+    },
+    {
+      "ImageUrl": "./images/manohar-1.jpg",
+      "Description": "",
+      "Link": "#",
+      "Name": "Manohar Jogi"
+    },
+    {
+      "ImageUrl": "./images/Saikrishna.jpg",
+      "Description": "",
+      "Link": "#",
+      "Name": "Sai Krishna Y"
+    },
+    {
+      "ImageUrl": "./images/Singh.jpg",
+      "Description": "",
+      "Link": "#",
+      "Name": "Karanjit Singh Gill"
+    }
+  ],
+  "Tracks": [
+    {
+      "Name": "Developer Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:00 AM - 9:00 AM",
+          "Title": "Registration"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:00 AM - 9:30 AM",
+          "Title": "Keynote",
+          "Room": "",
+          "Speaker": {
+            "Name": "Vinod Paidimarry",
+            "Designation": "Vice President & Cloud Services Practice Lead",
+            "Certifications": "MCSA: Cloud Platform, MCSE: Cloud Platform and Infrastructure, Microsoft Digital Transformation: Financial Services.",
+            "Organization": "ValueMomentum",
+            "Description": "With over 22 years of experience, I combine my strong hands-on technical expertise with decision-making experience in a technology leadership role. I have worked closely with multiple enterprises in helping them design and execute large transformational programs. Innovative thinker who applies expertise to solve relevant industry and business issues.Currently heading the Cloud Line of Business at ValueMomentum with a mission to help enterprises leverage public cloud platforms efficiently, to build the technology and engineering platform needed to compete effectively in this digital world.",
+            "ImageUrl": "./images/Vinod.jpg"
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "9:30 AM - 10:30 AM",
+          "Title": "Augmented Reality & Mixed Reality",
+          "Speaker": {
+            "Name": "Dr Neeraj Raj",
+            "Designation": "Founder and MD",
+            "Organization": "Immertive Pvt. Ltd.",
+            "Description": "A doctor by education, an accomplished artist and IT entrepreneur in the field of Animation, Multimedia and Medical Education. He founded Immertive Pvt. Ltd at Hyderabad - a Company with proficiency in designing, creating and delivering highly immersive and interactive experiences using new age technologies of 3 Dimensional Graphics, Virtual Reality (VR), Augmented Reality (AR) and Mixed Reality (MR) in the field of healthcare.",
+            "ImageUrl": "./images/NeerajRaj.jpg",
+            "Social": {
+              "Twitter": "",
+              "Website": "",
+              "Facebook": ""
+            }
+          }
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "10:30 AM - 10:45 AM",
+          "Title": "Tea Break"
+        },
+        {
+          "SessionId": "DEV1",
+          "Time": "10:45 AM - 11:45 AM",
+          "Title": "Cognitive Services - I ",
+          "Room": "",
+          "Speaker": {
+            "Name": "Swarnalata Tamanam",
+            "Organization": "ValueMomentum",
+            "Designation": "Senior Architect - Digital & Cloud Services",
+            "Certifications": "PMP, SSM",
+            "Description": " Software professional with 17+ years of experience in MS technologies. An inquisitive and bold nature describes me best. Always game for new technologies and trends, see where things will go, willing to read, experiment and put in the work required to bring things to fruition.",
+            "ImageUrl": "./images/Swarna-1.jpg",
+            "Social": {
+              "Twitter": "",
+              "Website": "",
+              "Facebook": ""
+            }
+          }
+        },
+        {
+          "SessionId": "DEV2",
+          "Time": "11:45 AM - 12:45 AM",
+          "Title": "Cognitive Services - II ",
+          "Room": "",
+          "Speaker": {
+            "Name": "Swarnalata Tamanam",
+            "Organization": "ValueMomentum",
+            "Description": "",
+            "ImageUrl": "",
+            "repeat": "yes",
+            "Social": {
+              "Website": ""
+            }
+          }
+        },
+        {
+          "SessionId": "Common5",
+          "Time": "12:45 PM - 1:30 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "DEV3",
+          "Time": "1:30 AM - 2:30 PM",
+          "Title": "Visual Intelligence using Custom Vision Service ",
+          "Room": "",
+          "Speaker": {
+            "Name": "Venkat Borra",
+            "Organization": "ValueMomentum",
+            "Designation": "Sr. Technical Manager",
+            "Certifications": "SSM (Safe Scrum Master)",
+            "Description": "Venkat is the Sr. Technical Manager at ValueMomentum and leads the program delivery of a large portfolio. An analytical and out-of-the-box thinker with 15+ years of IT experience, Venkat brings extensive experience in solution engineering and architecting complex business solutions.",
+            "ImageUrl": "./images/VenkatBorra.jpg",
+            "Social": {
+              "Website": ""
+            }
+          }
+        },
+
+        {
+          "SessionId": "DEV4",
+          "Time": "2:30 PM - 3:30 PM",
+          "Title": "Azure Machine Learning Services ",
+          "Room": "",
+          "Speaker": {
+            "Name": "Harshal Wavre",
+            "Organization": "ValueMomentum",
+            "Designation": "Data Analyst",
+            "Certifications": "AIDA Associate Insurance in Data Analytics(181-182)",
+            "Description": "Working as Data Analyst in the P&C Insurance Domain. Understanding the business case and driving the Analysis which is Data Science(Relative Science)and working with the Variance in the different data fields.Streamlining and Enhancing the process to make it understandable to the business.",
+            "ImageUrl": "./Images/Harshal (2).jpg",
+            "Social": {
+            }
+          }
+        },
+        {
+          "SessionId": "DEV5",
+          "Time": "3:30 PM - 4:30 PM",
+          "Title": "See the World around you: Fun with Image Recognition and bots",
+          "Room": "",
+          "Speaker": {
+            "Name": "Mayank Kumar",
+            "Organization": "Hitachi Consulting",
+            "Designation": "Cloud Architect - Digital & Mobile",
+            "Certifications": "Azure Certified Cloud Architect (Developer & Architect)",
+            "Description": "Azure Certified Cloud Architect (Developer & Architect) with experience in Google Cloud Platform. I am experienced in designing highly available and resilient solutions using IaaS and PaaS services available on various cloud platforms. I am a passionate blogger and contribute to open source projects often",
+            "ImageUrl": "./images/Mayank.jpg",
+            "Social": {
+              "Website": ""
+            }
+          }
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "4:30 PM - 4:45 PM",
+          "Title": "Tea Break"
+        },
+        {
+          "SessionId": "Common7",
+          "Time": "4:45 PM - 5:15 PM",
+          "Title": "Closing Address",
+          "Room": "",
+          "Speaker": {
+            "Name": "Jayesh Chauhan",
+            "Designation": "Chief Development Officer",
+            "Certifications": "",
+            "Organization": "ValueMomentum",
+            "Description": "He currently has the responsibility of developing online business models around the provider network businesses in Healthcare and Insurance. He is the business leader of WhiteCoats, a digital platform for doctors and healthcare practitioners, currently focused on the India market. Jayesh has over 25 years of professional experience in the IT industry spanning consulting, delivery management and business leadership. Jayesh holds a dual degree of B. Tech in Computer Science, and M.Sc. in Mathematics, from BITS Pilani, India, an MBA from Dowling College, NY, USA, and an executive MBA from Indian School of Business (ISB), India.",
+            "ImageUrl": "./images/Jayesh.jpg"
+          }
+        },
+        {
+          "SessionId": "Common8",
+          "Time": "5:15 PM - 6:00 PM",
+          "Title": "Surveys, Raffles and Prizes, Giveaways"
+        }
+      ]
+    },
+    {
+      "Name": "IT Pro Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:00 AM - 9:00 AM",
+          "Title": "Registration"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:00 AM - 9:30 AM",
+          "Title": "Keynote",
+          "Room": "",
+          "Speaker": {
+            "Name": "Vinod Paidimarry",
+            "Designation": "Bla",
+            "Certifications": "Bla",
+            "Organization": "ValueMomentum",
+            "Description": "",
+            "ImageUrl": "",
+            "repeat": "yes"
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "9:30 AM - 10:30 AM",
+          "Title": "Augmented Reality & Mixed Reality",
+          "Speaker": {
+            "Name": "TBD",
+            "Organization": "",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+              "Twitter": "",
+              "Website": "",
+              "Facebook": ""
+            }
+          }
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "10:30 AM - 10:45 AM",
+          "Title": "Tea Break"
+        },
+        {
+          "SessionId": "ITPRO1",
+          "Time": "10:45 AM - 11:45 AM",
+          "Title": "Hybrid Cloud Best Practices ",
+          "Room": "",
+          "Speaker": {
+            "Name": "Ananda Vardhan",
+            "Organization": "ValueMomentum",
+            "Designation": "Solution Architect - Digital & Cloud Services",
+            "Certifications": "MCPDEA",
+            "Description": "16 years of IT experience in solution architecture, design, development & deployment for various types of applications such as windows, web, client-server, n-tier, enterprise, service-oriented and micro-services applications & services – using Microsoft Technologies.",
+            "ImageUrl": "./images/Anand.jpg",
+            "Social": {
+              "Twitter": "",
+              "Website": "",
+              "Facebook": ""
+            }
+          }
+        },
+        {
+          "SessionId": "ITPRO2",
+          "Time": "11:45 AM - 12:45 AM",
+          "Title": "Azure Compliance and Security ",
+          "Room": "",
+          "Speaker": {
+            "Name": "Balu Kalepu",
+            "Organization": "ValueMomentum",
+            "Designation": "Technical Architect - Cloud",
+            "Certifications": "MCSA: Cloud Platform, MCSE: Cloud Platform and Infrastructure, AWS Certified Solutions Architect – Professional, MCSA: Windows Server 2012",
+            "Description": "An accomplished professional with 12+ years of qualitative experience in the areas of Cloud Computing (Azure & AWS), Cloud Migrations, Cloud Security and Compliance, Hybrid Cloud, Cloud Infrastructure & Planning. In my current role, as Technical Architect (Cloud) at ValueMomentum, I specialized in Microsoft Azure and enabled multiple Enterprises to have successful cloud adoption and data centre transformation. By leveraging IT Strategy and architecture, I love to solve business problems that have visible impact on organizations and the wider eco-system!",
+            "ImageUrl": "./images/balu.jpg",
+            "Social": {
+            }
+          }
+        },
+        {
+          "SessionId": "Common5",
+          "Time": "12:45 PM - 1:30 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "ITPRO3",
+          "Time": "1:30 AM - 2:30 PM",
+          "Title": "Design scalable, High Availability Infrastructure on Azure-I",
+          "Room": "",
+          "Speaker": {
+            "Name": "Balu Kalepu",
+            "Organization": "ValueMomentum",
+            "Description": "",
+            "ImageUrl": "",
+            "repeat": "yes",
+            "Social": {
+            }
+
+          }
+        },
+
+        {
+          "SessionId": "ITPRO4",
+          "Time": "2:30 PM - 3:30 PM",
+          "Title": "Design scalable, High Availability Infrastructure on Azure-II",
+          "Room": "",
+          "Speaker": {
+            "Name": "Balu Kalepu",
+            "Organization": "ValueMomentum",
+            "Description": "",
+            "ImageUrl": "",
+            "repeat": "yes",
+            "Social": {
+            }
+          }
+        },
+        {
+          "SessionId": "ITPRO5",
+          "Time": "3:30 PM - 4:30 PM",
+          "Title": "Disaster Recovery ",
+          "Room": "",
+          "Speaker": {
+            "Name": "Balu Kalepu",
+            "Organization": "ValueMomentum",
+            "Description": "",
+            "ImageUrl": "",
+            "repeat": "yes",
+            "Social": {
+            }
+          }
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "4:30 PM - 4:45 PM",
+          "Title": "Tea Break"
+        },
+        {
+          "SessionId": "Common7",
+          "Time": "4:45 PM - 5:15 PM",
+          "Title": "Closing Address"
+        },
+        {
+          "SessionId": "Common8",
+          "Time": "5:15 PM - 6:00 PM",
+          "Title": "Surveys, Raffles and Prizes, Giveaways"
+        }
+      ]
+    },
+    {
+      "Name": "Special Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:00 AM - 9:00 AM",
+          "Title": "Registration"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "9:00 AM - 9:30 AM",
+          "Title": "Keynote",
+          "Room": "",
+          "Speaker": {
+            "Name": "Vinod Paidimarry",
+            "Organization": "ValueMomentum",
+            "Description": "",
+            "ImageUrl": "",
+            "repeat": "yes"
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "9:30 AM - 10:30 AM",
+          "Title": "Augmented Reality & Mixed Reality",
+          "Speaker": {
+            "Name": "TBD",
+            "Organization": "",
+            "Description": "",
+            "ImageUrl": "",
+            "Social": {
+              "Twitter": "",
+              "Website": "",
+              "Facebook": ""
+            }
+          }
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "10:30 AM - 10:45 AM",
+          "Title": "Tea Break"
+        },
+        {
+          "SessionId": "DATA1",
+          "Time": "10:45 AM - 11:45 AM",
+          "Title": "Azure Cosmos DB",
+          "Room": "",
+          "Speaker": {
+            "Name": "Sriram Gudimella ",
+            "Organization": "ValueMomentum",
+            "Designation": "Solution Lead - Data Services",
+            "Certifications": "Data Scientist – Certified by XLRI, Associate in Insurance Domain Analytics (AIDA 181,182)– Certified by The Institutes",
+            "Description": "A technologist at heart with a management degree. I am passionate about learning which I believe is quintessential for a Data Personnel. In my career span of 6 years excluding the academic rigor of my post-graduation , I have got opportunities and exposure to understand and work on various cutting edge Data initiatives and projects. I enjoy my work and is interested in socializing and interacting with like-minded people.",
+            "ImageUrl": "./images/SriRam.jpg",
+            "Social": {
+              "Website": ""
+            }
+          }
+        },
+
+        {
+          "SessionId": "DATA2",
+          "Time": "11:45 AM - 12:45 AM",
+          "Title": "Blockchain using HyperLedger ",
+          "Room": "",
+          "Speaker": {
+            "Name": "Vamshi Ramadugu ",
+            "Organization": "ValueMomentum",
+            "Designation": "Solutions Architect",
+            "Certifications": "TOGAF 9 Certified, Microsoft Certified Solutions Associate: Cloud Platform, Certified Blockchain Expert",
+            "Description": "Software professional with 15+ years of experience in providing pragmatic, cost effective solutions to IT by enabling faster, smarter projects. I am mature, candid and have integrity.  Every day I work to improve myself and my skills which is part of maturing and becoming better at what I do. I am committed to building something larger and who puts aside personal gain for the well-being of the group. I have consultative selling style and is concerned with the clients' needs - consistently asking questions to uncover the what the client truly wants then being able to meet those requirements. I seek consistent personal growth and takes the time to continue learning.",
+            "ImageUrl": "./images/Vamshi.jpg",
+
+            "Social": {
+            }
+          }
+        },
+        {
+          "SessionId": "Common5",
+          "Time": "12:45 PM - 1:30 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "DATA3",
+          "Time": "1:30 AM - 2:30 PM",
+          "Title": "One stop shop - Visual Studio App Center ",
+          "Room": "",
+          "Speaker": {
+            "Name": "Umair Akbar",
+            "Organization": "ValueMomentum",
+            "Designation": "Technical Architect",
+            "Certifications": "CSM, LOMA",
+            "Description": "Umair has a wide industry experience of more than 10 years, with 2.5 years in Azure. I was part of Mobile Center team in Microsoft which is now renamed Visual Studio App Center. I am passionate about technology. I have been deeply involved in Azure platform and been part of Azure migration of many applications at enterprise level.",
+            "ImageUrl": "./images/Umair.jpg",
+            "Social": {
+              "Website": ""
+            }
+          }
+        },
+
+        {
+          "SessionId": "DATA4",
+          "Time": "2:30 PM - 3:30 PM",
+          "Title": "Using Azure Kubernetes Services to architect domain driven development ",
+          "Room": "",
+          "Speaker": {
+            "Name": "Naren Sivakumar",
+            "Organization": "ValueMomentum",
+            "Designation": "Client Services Director",
+            "Certifications": "PMI-PMP, PMI-ACP, Azure certified",
+            "Description": "Technology manager on .NET for over a decade with deep cloud and integration expertise. Technologist, HOG biker, marathoner, music lover and a leader to serve.",
+            "ImageUrl": "./images/Naren.jpg",
+            "Social": {
+              "Facebook": "",
+              "Website": ""
+            }
+          }
+        },
+
+        {
+          "SessionId": "DATA5",
+          "Time": "3:30 PM - 4:30 PM",
+          "Title": "Stream Analytics with IOT ",
+          "Room": "",
+          "Speaker": {
+            "Name": "Vamshi Ramadugu ",
+            "Organization": "ValueMomentum",
+            "Description": "Software professional with 15+ years of experience in providing pragmatic, cost effective solutions to IT by enabling faster, smarter projects.",
+            "ImageUrl": "",
+            "repeat": "yes",
+            "Social": {
+              "Twitter": "",
+              "Facebook": ""
+            }
+          }
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "4:30 PM - 4:45 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "Common7",
+          "Time": "4:45 PM - 5:15 PM",
+          "Title": "Closing Address"
+        },
+        {
+          "SessionId": "Common8",
+          "Time": "5:15 PM - 6:00 PM",
+          "Title": "Surveys, Raffles and Prizes, Giveaways"
+        }
+
+      ]
+    }
+  ]
+}
